@@ -1,0 +1,26 @@
+body{
+  background-image: url('cssexamplepic.jpeg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+a{
+  color:red;
+  text-decoration: none;
+}
+a:hover{color: black;
+  font-size: 24px;
+  font-weight: bold;
+}
+p a {
+  color: yellow;
+}
+p {
+  font-family: sans-serif;
+}
+ul  {
+  list-style: square;
+}
+ol {
+  list-style-type: lower-alpha;
+}
