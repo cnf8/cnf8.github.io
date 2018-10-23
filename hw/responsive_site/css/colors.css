@@ -1,0 +1,63 @@
+body {
+  background: url('../images/gradient.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+ul li a {
+  padding: 20px;
+  background:
+}
+.wrapper {
+
+
+  display: block;
+
+}
+nav {
+  display: block;
+  background: blue;
+  padding: 10px;
+  margin: 10px;
+}
+.navlinks {
+  padding: 10px;
+  margin: 10px;
+  list-style-type: none;
+}
+.navlinks li {
+  display: inline;
+  padding: 10px;
+  margin: 10px;
+}
+.navlinks a {text-decoration: none;
+color: white;
+padding: 10px;
+margin: 10px;
+}
+.left {
+display: block;
+background:
+box-sizing: blue;
+border: pink;
+outline-color: pink;
+outline-style: groove;
+outline-width: thick;
+
+}
+.right {
+
+  display: block;
+  outline-color: purple;
+  outline-style: groove;
+  outline-width: thick;
+
+
+}
+footer {
+
+  background: black;
+  color: white;
+
+}
