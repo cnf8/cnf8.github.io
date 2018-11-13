@@ -4,7 +4,7 @@ body{
 }
 .wrapper {
   display: block;
-  width: 100%
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
@@ -36,7 +36,7 @@ padding: 10px;
   margin-bottom: 20px;
 }
 
-}
+
 footer {
   display: block;
 

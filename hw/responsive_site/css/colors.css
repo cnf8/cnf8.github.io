@@ -7,7 +7,7 @@ body {
 }
 ul li a {
   padding: 20px;
-  background:
+
 }
 .wrapper {
 
@@ -38,8 +38,6 @@ margin: 10px;
 }
 .left {
 display: block;
-background:
-box-sizing: blue;
 border: pink;
 outline-color: pink;
 outline-style: groove;

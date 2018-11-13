@@ -5,8 +5,8 @@ body{
 .wrapper {
   display: block;
 
-  width: 100%
-  max-width: : 1000px;
+  width: 100%;
+  max-width: 1000px;
   min-height: 500px;
   margin-left: auto;
   margin-right: auto;
@@ -55,10 +55,10 @@ footer {
   padding: 10px;
 }
 .photos {
-  size: 5%
+
 width: 5%;
 min-height: 5px;
 }
 iframe {
-  width="560" height="315"; 
+  width:560px; height:315px;
 }
